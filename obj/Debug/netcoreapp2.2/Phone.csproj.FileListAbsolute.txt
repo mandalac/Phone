@@ -1,0 +1,11 @@
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/bin/Debug/netcoreapp2.2/Phone.deps.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/bin/Debug/netcoreapp2.2/Phone.runtimeconfig.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/bin/Debug/netcoreapp2.2/Phone.runtimeconfig.dev.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/bin/Debug/netcoreapp2.2/Phone.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/bin/Debug/netcoreapp2.2/Phone.pdb
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/obj/Debug/netcoreapp2.2/Phone.csprojAssemblyReference.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/obj/Debug/netcoreapp2.2/Phone.csproj.CoreCompileInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfoInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfo.cs
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/obj/Debug/netcoreapp2.2/Phone.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Phone/obj/Debug/netcoreapp2.2/Phone.pdb
